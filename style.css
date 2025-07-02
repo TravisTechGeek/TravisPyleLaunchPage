@@ -1,0 +1,39 @@
+/* style.css */
+nav {/*Styling for the navigation bar*/
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+body {/*Styling for the body of the page*/
+  background-image: url('images/Circuit_Board .jpg');  /*Background image for the body */
+  backdrop-filter: blur(2px); /*Blur effect for the background image*/
+  background-blend-mode: lighten; /*Blend mode for the background image*/
+  background-size: cover;  /*Cover the entire body with the background image*/
+  background-repeat: no-repeat;
+  color: black; /*Text color for the body*/
+  font-family: Arial, sans-serif; /*Font family for the body*/
+}
+  h1 {/*Styling for the main heading*/
+
+  color: black; /*Color for the main heading*/
+  text-align: center; /*Center alignment for the main heading*/
+}
+  h2 {/*Styling for the subheadings*/
+  color: black; /*Color for the subheadings*/
+  text-align: center; /*Center alignment for the subheadings*/
+}
+h3 {/*Styling for the smaller headings*/
+  color: black; /*Color for the smaller headings*/
+  text-align: center; /*Center alignment for the smaller headings*/
+  font-size: 16px; /*Font size for the smaller headings*/
+}
+p {/*Styling for paragraphs*/
+  color: white; /*Color for paragraphs*/
+  text-align: left; /*Left alignment for paragraphs*/
+  font-size: 25px; /*Font size for paragraphs*/
+  font-family: 'Courier New', Courier, monospace; /*Font family for paragraphs*/
+  margin: 30px; /*Margin for paragraphs*/
+  line-height: 1.6; /*Line height for better readability*/
+  font-weight: bold;  /*Font weight for paragraphs*/
+}
