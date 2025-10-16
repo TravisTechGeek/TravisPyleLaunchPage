@@ -6,7 +6,7 @@ nav {/*Styling for the navigation bar*/
 }
 
 body {/*Styling for the body of the page*/
-  background-image: url("Circuit_Board.jpg");  /*Background image for the body */
+  background-image: url(Circuit_Board .jpg);  /*Background image for the body */
   backdrop-filter: blur(2px); /*Blur effect for the background image*/
   background-blend-mode: lighten; /*Blend mode for the background image*/
   background-size: cover;  /*Cover the entire body with the background image*/
